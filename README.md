@@ -3,7 +3,7 @@ This project provides a foundation for understanding and creating stock price pr
 
 
 
-Key Steps:
+_**Key Steps:**_
 
 1. Data Collection: Yahoo Finance API is employed to retrieve historical stock price data for the selected company over a 10-year period.
 2. Data Preprocessing: The 'Close' prices are extracted and scaled using MinMaxScaler to fit within a normalized range. The dataset is divided into training and testing sets.
@@ -16,7 +16,7 @@ Key Steps:
 
 
 
-Outcome:
+_**Outcome:**_
 
 https://github.com/Elanchezhian2712/Stock-Prediction-Task-1-/assets/122656808/b55311cc-9bac-4951-a83b-b1d1b3ec4a7b
 
